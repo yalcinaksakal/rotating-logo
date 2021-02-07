@@ -1,0 +1,15 @@
+{
+  "name": "logo",
+  "version": "1.0.0",
+  "description": "rotating logo",
+  "main": "index.hmtl",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "ya",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.574"
+  }
+}

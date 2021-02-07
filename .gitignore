@@ -1,0 +1,7 @@
+node_modules
+.parcel-cache
+dist
+index1.html
+l.png
+logo.js
+style1.css
